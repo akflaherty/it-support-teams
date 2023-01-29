@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Name1",
+            "email": "Name1@email.com",
+            "day": "",
+            "startTime": "06:00:00",
+            "endTime": "10:00:00"
+        },
+        {
+            "name": "Name2",
+            "email": "Name2@email.com",
+            "day": "",
+            "startTime": "10am",
+            "endTime": "12:30pm"
+        },
+        {
+            "name": "Name3",
+            "email": "Name3@email.com",
+            "day": "",
+            "startTime": "12:30pm",
+            "endTime": "3:30pm"
+        },
+        {
+            "name": "Name4",
+            "email": "Name4@email.com",
+            "day": "",
+            "startTime": "3:30pm",
+            "endTime": "6pm"
+        }
+    ]
+}
